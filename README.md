@@ -22,7 +22,6 @@ $ pip3 install -U -r requirements.txt
 ```
 $ cp sample_config.py config.py
 ```
-```
 Edit `config.py` with your own values.
 ```sh
 $ python3 lina.py
