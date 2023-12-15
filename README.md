@@ -2,8 +2,6 @@
 <img src="https://telegra.ph/file/df1be19f9eba88878806a.jpg"/>
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-<img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
-
 ## Requirements
 
 - Python 3.7 or higher.
@@ -13,14 +11,20 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 ## Installation
 
 ```sh
-$ git clone https://github.com/thehamkercat/LunaChatBot
-$ cd LunaChatBot
+$ git clone https://github.com/bot-developer03/LinaChatBot
+```
+```
+$ cd LinaChatBot
+```
+```
 $ pip3 install -U -r requirements.txt
+```
 $ cp sample_config.py config.py
+```
 ```
 Edit `config.py` with your own values.
 ```sh
-$ python3 luna.py
+$ python3 lina.py
 ```
 
 
@@ -33,10 +37,6 @@ $ python3 luna.py
 
 Follow Installation Guide.
 ```sh
-$ sudo docker build -t luna .
-$ sudo docker run luna
+$ sudo docker build -t lina .
+$ sudo docker run lina
 ```
-
-## Note
-
-- For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
