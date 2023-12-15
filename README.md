@@ -1,7 +1,6 @@
 # LunaChatBot
+<img src="https://telegra.ph/file/df1be19f9eba88878806a.jpg"/>
 Just another Telegram AI chat bot written in Python using Pyrogram.
-
-A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
 
 <img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
 
