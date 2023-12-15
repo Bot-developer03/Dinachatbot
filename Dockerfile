@@ -13,4 +13,4 @@ COPY . .
 RUN pip3 install -U -r requirements.txt
 
 # Running Luna
-CMD ["python3","luna.py"]
+CMD ["python3","dina.py"]
