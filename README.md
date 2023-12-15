@@ -1,4 +1,4 @@
-# LunaChatBot
+# DinaChatBot
 <img src="https://telegra.ph/file/df1be19f9eba88878806a.jpg"/>
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
