@@ -11,13 +11,14 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 ## Installation
 
 ```sh
-$ git clone https://github.com/bot-developer03/LinaChatBot
+$ git clone https://github.com/bot-developer03/DinaChatBot
 ```
 ```
-$ cd LinaChatBot
+$ cd DinaChatBot
 ```
 ```
 $ pip3 install -U -r requirements.txt
+```
 ```
 $ cp sample_config.py config.py
 ```
@@ -37,6 +38,8 @@ $ python3 lina.py
 
 Follow Installation Guide.
 ```sh
-$ sudo docker build -t lina .
+$ sudo docker build -t lina
+```
+```
 $ sudo docker run lina
 ```
