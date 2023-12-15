@@ -24,7 +24,7 @@ $ cp sample_config.py config.py
 ```
 Edit `config.py` with your own values.
 ```sh
-$ python3 lina.py
+$ python3 dina.py
 ```
 
 
@@ -37,8 +37,8 @@ $ python3 lina.py
 
 Follow Installation Guide.
 ```sh
-$ sudo docker build -t lina
+$ sudo docker build -t dina
 ```
 ```
-$ sudo docker run lina
+$ sudo docker run dina
 ```
